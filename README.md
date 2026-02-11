@@ -73,6 +73,7 @@
 - [CitizenLab](https://www.citizenlab.co/) – Digital citizen engagement and consultation tools.
 - [Pol.is](https://pol.is/) – AI-powered civic engagement and opinion mapping.
 - [Bang the Table](https://www.bangthetable.com/) – Online community engagement platform.
+- [Absurdity Index](https://absurdityindex.org/) – Scores real U.S. federal legislation on a 1-10 absurdity scale and publishes satirical common-sense alternative bills. Public JSON API.
 
 ## RegTech & Compliance
 
