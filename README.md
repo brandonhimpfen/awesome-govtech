@@ -89,6 +89,7 @@
 - [Bonfire](https://www.gobonfire.com/) – Public sector procurement management software.
 - [OpenGov Budgeting](https://opengov.com/products/budgeting-planning/) – Budgeting and planning tools for governments.
 - [USASpending](https://www.usaspending.gov/) – U.S. federal spending transparency platform.
+- [Congressional Stock Brain](https://congressionalstockbrain.com/) – AI-powered tool that scores U.S. STOCK Act disclosures by gnificance. Tracks what lawmakers trade, ranked by committee relevance, timing, and disclosure delay.
 
 ## Smart Cities & Urban Tech
 
