@@ -68,6 +68,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Open Data Portal](https://opendatawatch.com/) – Resources for open government data initiatives.
 - [Tableau Government](https://www.tableau.com/solutions/government) – BI and analytics for public sector data.
 - [Power BI Government](https://powerbi.microsoft.com/government/) – Secure analytics for government agencies.
+- [Motsele](https://motsele.com/) – Free per-address pages built from county and city open data (assessor, tax, permits, violations, 311) for Chicago, Cook County, Philadelphia, New York City, Cuyahoga County and Detroit; every fact dated and linked to its public source.
 
 ## Civic Engagement & Participation
 
