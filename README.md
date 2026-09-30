@@ -95,6 +95,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Bonfire](https://www.gobonfire.com/) – Public sector procurement management software.
 - [OpenGov Budgeting](https://opengov.com/products/budgeting-planning/) – Budgeting and planning tools for governments.
 - [USASpending](https://www.usaspending.gov/) – U.S. federal spending transparency platform.
+- [Vunna](https://getvunna.com/) – European public tender alerts, scored against a supplier profile, covering TED and the German and Dutch national portals.
 
 ## Smart Cities & Urban Tech
 
