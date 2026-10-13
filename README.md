@@ -95,6 +95,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Bonfire](https://www.gobonfire.com/) – Public sector procurement management software.
 - [OpenGov Budgeting](https://opengov.com/products/budgeting-planning/) – Budgeting and planning tools for governments.
 - [USASpending](https://www.usaspending.gov/) – U.S. federal spending transparency platform.
+- [OpenSAM](https://github.com/alicelabs-llc/OpenSAM) – Open-source autonomous AI agent for U.S. federal contracting: SAM.gov opportunity discovery, AI-powered analysis and viability scoring, and proposal drafting.
 
 ## Smart Cities & Urban Tech
 
