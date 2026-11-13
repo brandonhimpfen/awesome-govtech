@@ -94,6 +94,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [GovSpend](https://govspend.com/) – Government procurement and spending analytics.
 - [Bonfire](https://www.gobonfire.com/) – Public sector procurement management software.
 - [OpenGov Budgeting](https://opengov.com/products/budgeting-planning/) – Budgeting and planning tools for governments.
+- [OppBeacon](https://oppbeacon.com) – SAM.gov opportunity alerts and AI bid/no-bid help for small U.S. federal contractors.
 - [USASpending](https://www.usaspending.gov/) – U.S. federal spending transparency platform.
 
 ## Smart Cities & Urban Tech
